@@ -19,7 +19,7 @@ I am Mahendra Nath Reddy E 😃. I am currently an student in Bachelor of Techno
 ## ⚡ Technologies
 Talk to me about:
 - Problem Sovling **Computational Thinking and Algorithmic Approchs**.
-- **Machine Learning Enthustic**.
+- **Machine Learning**.
 - Solving Data structure and algorithm questions in **C++ and Python**.
 
 
