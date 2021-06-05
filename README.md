@@ -2,9 +2,6 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
-
-
 I am Mahendra Nath Reddy E 😃. I am currently an student in Bachelor of Technology focused in Computer Science and engineering from REVA University, Bangalore. I love to explore and learn about new things.
 
 ## 👯 Communities
