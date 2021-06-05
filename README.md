@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I am Mahendra Nath Reddy E 😃. I am an student in Bachelor of Technology focused in Computer Science and engineering from REVA University, Bangalore. I ove to explore and learn about new things.
+I am Mahendra Nath Reddy E 😃. I am currently an student in Bachelor of Technology focused in Computer Science and engineering from REVA University, Bangalore. I love to explore and learn about new things.
 
 ## 👯 Communities
 * Chair IEEE Student Branch REVA University.
@@ -12,9 +12,9 @@ I am Mahendra Nath Reddy E 😃. I am an student in Bachelor of Technology focus
 
 - 🏄‍ &nbsp; Community guy who loves being involved in communities and help students grow.\
 - 🌱 &nbsp; I'm on track for learning more about Machine Learning, Deep Learing, NLP, Bio-Infomartics.\
-- 💡 &nbsp; I’m looking to collaborate on Solving Problems using DSA and Machine Learning.
+- 💡 &nbsp; I’m looking to collaborate on Solving Problems using DSA and Machine Learning.\
 - ✍️ &nbsp; In my free time, I read books, watch fantasy movies.\
-- 💬 &nbsp; Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+- 💬 &nbsp; Feel free to reach out to me for general consulting, or discussions on the above mentioned topics!\
 
 ## ⚡ Technologies
 Talk to me about:
